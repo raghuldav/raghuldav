@@ -28,7 +28,7 @@
   - [ForensicsDetective](https://github.com/raghuldav/ForensicsDetective)
   
 
-<h3>👨‍💻 SQL PROJECT:</h3>
+<h3>👨‍💻 SQL PROJECTS:</h3>
 
 - <b>Subscription and Recurring Payment Tracker using PostgreSQL</b>
   - [Subscription and Recurring Payment Tracker](https://github.com/raghuldav/Subscription-Tracker)
