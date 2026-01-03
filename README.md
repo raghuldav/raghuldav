@@ -42,10 +42,6 @@
   Complete AI & Machine Learning Data Science Bootcamp
 
 "https://udemy-certificate.s3.amazonaws.com/pdf/UC-f6577aaa-7802-4e2d-866e-c8b94e507d93.pdf"
-    
-  Complete Python Bootcamp
-
-"https://www.udemy.com/certificate/UC-bd3cead1-83f1-40f1-aeea-1c0a1961daef/
 
    Python Developer-2023: Zero to Mastery
 
@@ -53,19 +49,7 @@
 
    Internshala Machine Learning Training
 
- "https://online.publuu.com/580462/1302837"
-
-   Microsoft Certificate
-
-  "https://online.publuu.com/580462/1302841"
-
-   DataBricks Academy Accreditation - GCP Databricks Platform Architect (Issued Aug 2025 · Expires Aug 2027) 
-   Credential ID 158482573
-  "https://credentials.databricks.com/c8419eb6-3c1e-4acb-91ac-6b26b2196093#acc.mhfFiWQs"
-
-   Databricks Certified Machine Learning Professional (Issued Aug 2025 · Expires Aug 2027)
-   Credential ID 158910937
-  "https://credentials.databricks.com/3e836b21-d7aa-4111-974b-c3de4c9370d6#acc.QnK4ZaHG"
+ "https://online.fliphtml5.com/gqdha/fdvh/"
    
     
 
