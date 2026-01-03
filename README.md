@@ -41,11 +41,9 @@
    
   Complete AI & Machine Learning Data Science Bootcamp
 
-"https://udemy-certificate.s3.amazonaws.com/pdf/UC-f6577aaa-7802-4e2d-866e-c8b94e507d93.pdf"
 
    Python Developer-2023: Zero to Mastery
 
-"https://www.udemy.com/certificate/UC-2a447ee6-087a-436e-94ed-239db1a65775/
 
    Internshala Machine Learning Training
 
