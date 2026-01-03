@@ -9,7 +9,7 @@
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
   - [Finding similar Dresses](https://github.com/raghuldav/prediction-of-similar-dresses)
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
-  - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
+  - [Spotify Music Listening Behavoir](https://github.com/raghuldav/spotify-behavior-analysis-using-R)
 - <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
   - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Taxi-Trip-Time-Prediction/tree/main)
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
