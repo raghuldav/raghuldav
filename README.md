@@ -15,7 +15,9 @@
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
   - [Genre-Classification and Chord Generation](https://github.com/raghuldav/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs)
 - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
-  - [Deep Learning for Demand Forecasting in Retail](https://github.com/raghuldav/Deep-Learning-for-demand-forecasting-in-retail)
+  - [Deep Learning for Demand Forecasting in Retail](https://github.com/raghuldav/Deep-Learning-for-demand-forecasting-in-retail) 
+- <b>seasonality analysis and predictive modeling for Airbnb</b>
+  - [predictive modeling for Airbnb data](https://github.com/raghuldav/Airbnb-predictive-modeling) 
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
