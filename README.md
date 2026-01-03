@@ -8,22 +8,14 @@
   - [Prediction of Heart Disease](https://github.com/raghuldav/Heart-disease-prediction) 
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
   - [Finding similar Dresses](https://github.com/raghuldav/prediction-of-similar-dresses)
-- <b> Diabetes Prediction using Fast API, Docker and Machine Learning</b>
-  - [Portfolio using Jupyter Notebook](https://github.com/padmavathi026/Portfolio)
-  - [Prediction of Diabetes](https://github.com/padmavathi026/Prediction-of-Diabetes)
-  - [FastAPI](https://github.com/padmavathi026/fastapi_fall24)
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/padmavathi026/Spotify-Music-listening)
-- <b>Smart Fare Prediction Enhancing Taxi Pricing with Data-Driven Intelligence Comparative-Analysis</b>
-  - [Smart Fare Prediction](https://github.com/padmavathi026/Smart-Fare-Prediction)
 - <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
   - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Taxi-Trip-Time-Prediction/tree/main)
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
   - [Genre-Classification and Chord Generation](https://github.com/padmavathi026/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs)
 - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
   - [Deep Learning for Demand Forecasting in Retail](https://github.com/padmavathi026/Deep-Learning-for-Demand-Forecasting-in-Retail)
-- <b>Claude vs Chatgpt</b>
-  - [Claude_ChatGPT](https://github.com/padmavathi026/chatgpt_claude) 
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
@@ -32,8 +24,6 @@
   - [Subscription and Recurring Payment Tracker](https://github.com/padmavathi026/Subscription-Tracker/tree/main)
 - <b>Design and Implementation of a SQL-Based Customer Churn Prediction System using PostgreSQL</b>
   - [Design and Implementation of a SQL-Based Customer Churn Prediction System](https://github.com/padmavathi026/Design-and-Implementation-of-a-SQL-Based-Customer-Churn-Prediction-System)
-- <b>SQL Mini-Projects</b>
-  - [SQL Mini-Projects (Snippets Gallery)](https://github.com/padmavathi026/SQL_mini_projects)
 
 
 
