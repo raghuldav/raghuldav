@@ -19,8 +19,9 @@
 - <b>seasonality analysis and predictive modeling for Airbnb</b>
   - [predictive modeling for Airbnb data](https://github.com/raghuldav/Airbnb-predictive-modeling) 
 - <b>XGBoost and NN for Airbnb</b>
-  - [XGBoost and NN](https://github.com/raghuldav/XGBoost-NN-for-Airbnb/tree/main)
-
+  - [XGBoost and NN](https://github.com/raghuldav/XGBoost-NN-for-Airbnb/tree/main) 
+- <b>Shannon Text Generator</b>
+  - [Shannon Text Generator](https://github.com/raghuldav/Shannon-Text-Generator)
 
 <h3>👨‍💻 SQL PROJECT:</h3>
 
