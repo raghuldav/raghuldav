@@ -7,7 +7,7 @@
 - <b>Heart Disease Prediction Project using Data Science and Machine Learning models ( Logistic Regression, Random Forest, Support vector Machine, and Decision Tree)</b>
   - [Prediction of Heart Disease](https://github.com/raghuldav/Heart-disease-prediction) 
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
-  - [Finding similar Dresses](https://github.com/padmavathi026/Finding-Similar-Dress-Available-in-the-Market-Using-Image-Processing-and-NLP)
+  - [Finding similar Dresses](https://github.com/raghuldav/prediction-of-similar-dresses)
 - <b> Diabetes Prediction using Fast API, Docker and Machine Learning</b>
   - [Portfolio using Jupyter Notebook](https://github.com/padmavathi026/Portfolio)
   - [Prediction of Diabetes](https://github.com/padmavathi026/Prediction-of-Diabetes)
