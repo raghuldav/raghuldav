@@ -5,7 +5,7 @@
 - <b>Cyber Threat Intelligence Mining for Organizational Cybersecurity Resilience using Data Science and Machine Learning ( using K-Neighbors Classifier, Random Forest, Logistic Regression, HTML, and CSS </b>
   - [CTI Mining for organizations](https://github.com/raghuldav/Cyber-Threat-Intelligence-Mining)
 - <b>Heart Disease Prediction Project using Data Science and Machine Learning models ( Logistic Regression, Random Forest, Support vector Machine, and Decision Tree)</b>
-  - [Prediction of Heart Disease](https://github.com/padmavathi026/Heart-Disease-Prediction) 
+  - [Prediction of Heart Disease](https://github.com/raghuldav/Heart-disease-prediction) 
 - <b>Finding similar Dresses available in the market using machine learning and Deep learning models ( using NLP, OpenCV, Tensorflow, image processing techniques)</b>
   - [Finding similar Dresses](https://github.com/padmavathi026/Finding-Similar-Dress-Available-in-the-Market-Using-Image-Processing-and-NLP)
 - <b> Diabetes Prediction using Fast API, Docker and Machine Learning</b>
