@@ -18,6 +18,8 @@
   - [Deep Learning for Demand Forecasting in Retail](https://github.com/raghuldav/Deep-Learning-for-demand-forecasting-in-retail) 
 - <b>seasonality analysis and predictive modeling for Airbnb</b>
   - [predictive modeling for Airbnb data](https://github.com/raghuldav/Airbnb-predictive-modeling) 
+- <b>XGBoost and NN for Airbnb</b>
+  - [XGBoost and NN](https://github.com/raghuldav/XGBoost-NN-for-Airbnb/tree/main)
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
