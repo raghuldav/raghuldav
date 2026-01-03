@@ -11,7 +11,7 @@
 - <b>Spotify Music Listening Behavoir - Behavioral Clusterig & Time Series Analysis using R</b>
   - [Spotify Music Listening Behavoir](https://github.com/raghuldav/spotify-behavior-analysis-using-R)
 - <b>Optimizing Taxi Trip Time Prediction Using NYC Trip Data and Machine Learning Using Hadoop and Spark</b>
-  - [Taxi Trip Time Prediction](https://github.com/padmavathi026/Taxi-Trip-Time-Prediction/tree/main)
+  - [Taxi Trip Time Prediction](https://github.com/raghuldav/taxi-trip-prediction-hadoop)
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
   - [Genre-Classification and Chord Generation](https://github.com/padmavathi026/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs)
 - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
