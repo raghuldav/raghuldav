@@ -21,7 +21,10 @@
 - <b>XGBoost and NN for Airbnb</b>
   - [XGBoost and NN](https://github.com/raghuldav/XGBoost-NN-for-Airbnb/tree/main) 
 - <b>Shannon Text Generator</b>
-  - [Shannon Text Generator](https://github.com/raghuldav/Shannon-Text-Generator)
+  - [Shannon Text Generator](https://github.com/raghuldav/Shannon-Text-Generator) 
+- <b>Gutenberg-text-cleaner</b>
+  - [Gutenberg-text-cleaner](https://github.com/raghuldav/Gutenberg-text-cleaner)
+  
 
 <h3>👨‍💻 SQL PROJECT:</h3>
 
