@@ -1,6 +1,6 @@
 <h1> Hello, This is Raghulchellapandiyan Senthil Kumaran <br/></h1>
 
-<h2>👨‍💻 DATA SCIENCE AND MACHINE LEARNING PROJECTS:</h2>
+<h2>👨‍💻 DATA SCIENCE AND ML & DL PROJECTS:</h2>
 
 - <b>Cyber Threat Intelligence Mining for Organizational Cybersecurity Resilience using Data Science and Machine Learning ( using K-Neighbors Classifier, Random Forest, Logistic Regression, HTML, and CSS </b>
   - [CTI Mining for organizations](https://github.com/raghuldav/Cyber-Threat-Intelligence-Mining)
