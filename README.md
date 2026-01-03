@@ -15,7 +15,7 @@
 - <b>Genre-Classification and Chord Generation from Lyrics using LLMs and NLP</b>
   - [Genre-Classification and Chord Generation](https://github.com/raghuldav/Genre-Classification-and-Chord-Generation-from-Lyrics-using-LLMs)
 - <b>Deep Learning for Demand Forecasting in Retail Using Hybrid CNN-RNN and Transformer Models</b>
-  - [Deep Learning for Demand Forecasting in Retail](https://github.com/padmavathi026/Deep-Learning-for-Demand-Forecasting-in-Retail)
+  - [Deep Learning for Demand Forecasting in Retail](https://github.com/raghuldav/Deep-Learning-for-demand-forecasting-in-retail)
 
 
 <h3>👨‍💻 SQL PROJECT:</h3>
