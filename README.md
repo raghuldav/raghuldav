@@ -23,7 +23,9 @@
 - <b>Shannon Text Generator</b>
   - [Shannon Text Generator](https://github.com/raghuldav/Shannon-Text-Generator) 
 - <b>Gutenberg-text-cleaner</b>
-  - [Gutenberg-text-cleaner](https://github.com/raghuldav/Gutenberg-text-cleaner)
+  - [Gutenberg-text-cleaner](https://github.com/raghuldav/Gutenberg-text-cleaner) 
+- <b>ForensicsDetective</b>
+  - [ForensicsDetective](https://github.com/raghuldav/ForensicsDetective)
   
 
 <h3>👨‍💻 SQL PROJECT:</h3>
