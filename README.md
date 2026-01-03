@@ -48,7 +48,12 @@
 "https://drive.google.com/file/d/1fAeFHRMXULi2XliMyyt1m4Agm22rhbTV/view?usp=sharing"
 
    Internshala Machine Learning Training
+   
  "https://online.fliphtml5.com/gqdha/fdvh/"
+
+   Google Data Analytics
+
+ "https://drive.google.com/file/d/1vU_mrGVYgZHEMyRVI7Lna3-ZfF615b5v/view?usp=sharing"
    
     
 
