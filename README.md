@@ -40,9 +40,11 @@
 <h6> 👨‍💻CERTIFICATIONS</h6>
    
   Complete AI & Machine Learning Data Science Bootcamp
+  
 "https://drive.google.com/file/d/1MYxedBZH1uSZIBxvHZipGtoIUaRGTisE/view?usp=sharing"
 
    Python Developer-2023: Zero to Mastery
+   
 "https://drive.google.com/file/d/1fAeFHRMXULi2XliMyyt1m4Agm22rhbTV/view?usp=sharing"
 
    Internshala Machine Learning Training
