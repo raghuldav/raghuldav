@@ -55,7 +55,7 @@
 
  "https://drive.google.com/file/d/1vU_mrGVYgZHEMyRVI7Lna3-ZfF615b5v/view?usp=sharing"
    
-    
+📄 **Resume:** [View / Download Resume](https://drive.google.com/file/d/1_GmGUVPReL6gr-dTvc4xujrl-NuuaFmX/view?usp=sharing)
 
 <h8> 🤳 Connect with me:</h8>
 
